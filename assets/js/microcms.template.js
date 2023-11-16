@@ -1,4 +1,4 @@
 export const microcms = {
-  SERVICE_ID: "your-site-name",
-  API_KEY: "your-api-key",
+  SERVICE_ID: "u59as2t5ew",
+  API_KEY: "8CJQFYVRBvkgQMwx1phkC7cpb6GZgNx1BQ3s",
 };
